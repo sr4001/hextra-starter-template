@@ -30,13 +30,16 @@ tags:
   - AI ethics
 title: "AI: Artificial but not so Intelligent - The Limits of Current AI Systems"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In recent years, [Artificial Intelligence (AI)](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) has made remarkable strides, captivating our imagination and transforming various aspects of our lives. From virtual assistants to autonomous vehicles, AI seems to be everywhere. However, despite its impressive capabilities in data processing and pattern recognition, current AI systems fall short of true intelligence. In this post, we'll explore why AI, at the moment, cannot truly think and remains more of a sophisticated pattern recognition tool than a sentient being.
 
 <!--more-->
 
-![A confused-looking robot contemplating a complex equation, symbolizing the gap between artificial intelligence and human cognition in understanding abstract concepts.](confusedai.webp)
+{{< responsive-image src="confusedai.webp" alt="A confused-looking robot contemplating a complex equation, symbolizing the gap between artificial intelligence and human cognition in understanding abstract concepts." >}}
 
 ## The Illusion of Intelligence in AI
 

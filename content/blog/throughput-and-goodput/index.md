@@ -25,6 +25,9 @@ tags:
   - velocity
 title: Throughput vs Goodput - What Really Matters
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 As an agile consultant, I've seen countless teams grapple with the concepts of [throughput](https://en.wikipedia.org/wiki/Throughput) and [goodput](https://en.wikipedia.org/wiki/Goodput). These terms often pop up in discussions about team performance and project outcomes, but there's often confusion about what they really mean and why they matter.

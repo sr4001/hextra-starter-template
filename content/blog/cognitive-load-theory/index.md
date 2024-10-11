@@ -23,13 +23,16 @@ tags:
   - software development
 title: "Cognitive Load Theory: Optimizing Agile Team Performance"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 As agile teams, we're constantly juggling multiple tasks, learning new technologies, and adapting to changing requirements. But have you ever stopped to consider how all this mental juggling affects our productivity and effectiveness? Enter [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load), a concept that's becoming increasingly relevant in the world of software development.
 
 <!--more-->
 
-![Illustration of cognitive load concept in agile team performance](cognitiveload.webp)
+{{< responsive-image src="cognitiveload.webp" alt="Illustration of cognitive load concept in agile team performance" >}}
 
 ## Understanding Cognitive Load Theory
 

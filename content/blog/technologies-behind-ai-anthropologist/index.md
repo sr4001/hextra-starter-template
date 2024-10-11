@@ -32,6 +32,9 @@ tags:
   - organizational network analysis
 title: "The AI Anthropologist 2: Unveiling the Technology Toolkit"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In the first post of this series, we introduced the concept of the AI Anthropologist—an innovative application of artificial intelligence designed to understand and enhance workplace dynamics. We explored the potential of this technology to analyze communication patterns, detect shifts in team morale, and uncover the hidden influencers within an organization. However, the power of the AI Anthropologist lies not just in its conceptual appeal but in the specific technologies that make it possible.
@@ -40,7 +43,7 @@ In the first post of this series, we introduced the concept of the AI Anthropolo
 
 This second post delves into the technologies that form the backbone of the AI Anthropologist. We will explore the roles of Natural Language Processing (NLP), emotion recognition, machine learning, and organizational network analysis (ONA). Each of these technologies brings a unique set of capabilities to the table, enabling the AI Anthropologist to observe, analyze, and provide insights into the complex social fabric of the workplace.
 
-![Illustration depicting various AI technologies working together to analyze workplace dynamics](ai-anthropologist-tech.webp)
+{{< responsive-image src="ai-anthropologist-tech.webp" alt="Illustration depicting various AI technologies working together to analyze workplace dynamics" >}}
 
 ### The Building Blocks: Natural Language Processing (NLP)
 

@@ -30,13 +30,16 @@ tags:
   - automation
 title: Improving the Quality of Acceptance Criteria with AI in Agile Workflows
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In Agile software development, **Acceptance Criteria** play a crucial role in defining the conditions under which a user story or feature is considered complete and functional. These criteria act as a shared understanding between stakeholders and development teams, outlining the expected behavior of the system under different conditions. Well-written acceptance criteria provide clarity, prevent scope creep, and make testing more straightforward.
 
 <!--more-->
 
-![AI-enhanced Acceptance Criteria workflow](ai-acceptance-criteria.webp)
+{{< responsive-image src="ai-acceptance-criteria.webp" alt="AI-enhanced Acceptance Criteria workflow" >}}
 
 However, writing high-quality, comprehensive, and testable acceptance criteria can be a complex task. The process often requires significant time and input from various stakeholders to ensure that nothing is overlooked. This is where **Artificial Intelligence (AI)** can offer tangible improvements. AI-powered tools can streamline the creation of acceptance criteria, enhance their clarity, and even assist in automating their conversion into test cases.
 

@@ -28,6 +28,9 @@ tags:
   - organizational culture
 title: "The AI Anthropologist 1: Understanding Workplace Dynamics"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In an era where [Artificial Intelligence (AI)](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) is transforming every aspect of our lives, the workplace stands as one of the most promising yet under explored frontiers for AI applications. While AI has made significant strides in automating tasks, enhancing productivity, and streamlining operations, its potential to understand and improve human dynamics within organizations is just beginning to be realized. This series introduces the concept of the **AI Anthropologist**—an innovative application of AI that could revolutionize our understanding of workplace culture, communication patterns, and social dynamics.
@@ -36,7 +39,7 @@ In an era where [Artificial Intelligence (AI)](https://www.ibm.com/cloud/learn/w
 
 This blog post is the first in a four-part series that will explore the AI Anthropologist concept, its potential benefits, the ethical considerations it raises, and how to implement it thoughtfully in your organization. In this introductory post, we'll dive into the foundational ideas behind the AI Anthropologist, why it's an exciting development for workplace analysis, and how it fits into the broader landscape of AI in the workplace.
 
-![Understanding workplace dynamics with an AI Anthropologist](aianthro.png)
+{{< responsive-image src="aianthro.png" alt="Understanding workplace dynamics with an AI Anthropologist" >}}
 
 ### The Emergence of the AI Anthropologist
 

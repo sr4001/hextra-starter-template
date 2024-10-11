@@ -31,13 +31,16 @@ tags:
 title: "Enhancing the Definition of Done in Agile Development with AI: Achieving Clarity,
   Testability, and Compliance"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In Agile software development, the **Definition of Done (DoD)** is critical for ensuring that teams share a clear understanding of when a task or user story is fully complete. It's not just about checking boxes but ensuring the deliverable meets certain quality standards, is testable, and can be released into production with confidence. A solid DoD serves as a benchmark for delivering high-quality software that aligns with both customer expectations and regulatory requirements. Yet, despite its importance, defining and managing a robust DoD can be challenging.
 
 <!--more-->
 
-![Workflow of requirements to definition of done](ai_definition_of_done.png)
+{{< responsive-image src="ai_definition_of_done.png" alt="Workflow of requirements to definition of done" >}}
 
 This is where Artificial Intelligence (AI) can step in. AI tools can help development teams create clearer, more actionable, and testable Definitions of Done while also ensuring consistency, reducing ambiguity, and enhancing compliance with industry regulations. In this post, we'll explore how AI can elevate the Definition of Done in Agile software development and provide actionable insights on how to implement AI-driven strategies to improve the quality of the development process.
 

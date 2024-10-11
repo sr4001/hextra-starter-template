@@ -31,6 +31,9 @@ tags:
   - team collaboration
 title: "The AI Anthropologist 4: Implementing the AI Anthropologist"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 As we've explored throughout this series, the AI Anthropologist concept offers tremendous potential for understanding workplace dynamics, particularly those subtle and often overlooked aspects that impact team culture, morale, and communication. While the idea of using AI in this way is still novel, the technology is advanced enough to begin experimenting with its implementation. However, this requires thoughtful planning and execution.
@@ -39,7 +42,7 @@ As we've explored throughout this series, the AI Anthropologist concept offers t
 
 In this post, we'll guide you through the process of implementing an AI Anthropologist in your organization. This is not an exhaustive manual but a strategic overview that highlights key steps and considerations to ensure success.
 
-![Rolling out the AI Anthropologist](aianthrostepbystep.webp)
+{{< responsive-image src="aianthrostepbystep.webp" alt="Rolling out the AI Anthropologist" >}}
 
 ### **Step 1: Define the Objectives and Scope**
 

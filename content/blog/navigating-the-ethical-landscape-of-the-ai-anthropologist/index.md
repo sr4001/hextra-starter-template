@@ -32,6 +32,9 @@ tags:
   - workplace AI
 title: "The AI Anthropologist 3: Navigating the Ethical Landscape"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In the first two posts of this series, we explored the concept of the AI Anthropologist and the technologies that make it possible. By leveraging Natural Language Processing (NLP), emotion recognition, machine learning, and Organizational Network Analysis (ONA), organizations can gain a deeper understanding of the complex social and emotional dynamics at play in their workplace. The AI Anthropologist offers a powerful set of tools to observe, analyze, and provide insights into these dynamics. However, as with any powerful technology, its implementation raises significant ethical concerns.
@@ -40,7 +43,7 @@ In the first two posts of this series, we explored the concept of the AI Anthrop
 
 This third post delves into the ethical landscape surrounding the AI Anthropologist, focusing on privacy, consent, transparency, and the balance between insightful observation and invasive surveillance. We'll also look at how organizations can design and deploy these AI systems thoughtfully and responsibly. As we continue to draw on the references from the previous posts, it becomes clear that ethical considerations should be at the forefront of AI implementation in the workplace.
 
-![Illustration depicting ethical considerations in AI implementation in the workplace](aianthro.png)
+{{< responsive-image src="aianthro.png" alt="Illustration depicting ethical considerations in AI implementation in the workplace" >}}
 
 ### The Dual-edged Sword of AI in the Workplace
 

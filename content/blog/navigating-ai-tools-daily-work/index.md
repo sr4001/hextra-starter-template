@@ -26,13 +26,16 @@ tags:
   - digital transformation
 title: Navigating the Use of AI Tools in Daily Work
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 Imagine walking into your office to find a new colleague at the desk next to yours. This coworker never sleeps, can process vast amounts of information in seconds, and seems to have an answer for everything. Sounds like a dream team member, right? But what if this tireless worker also lacks the ability to read between the lines, misses cultural nuances, and can't brainstorm truly novel ideas?
 
 <!--more-->
 
-![A human being critically evaluating AI generated output](humanintheloop.png)
+{{< responsive-image src="humanintheloop.png" alt="A human being critically evaluating AI generated output" >}}
 
 Welcome to the world of [AI in the workplace](https://hbr.org/2019/07/how-ai-is-changing-work-and-leadership) - a realm where incredible efficiency meets potential pitfalls, and where navigating the balance between human insight and artificial intelligence has become a critical skill.
 

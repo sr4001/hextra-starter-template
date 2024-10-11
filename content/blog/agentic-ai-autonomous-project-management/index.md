@@ -14,8 +14,6 @@ seo:
     development, enhancing decision-making, risk management, and team collaboration.
   noindex: false
   title: "Agentic AI: Transforming Agile Development with Autonomous Intelligence"
-series:
-  - Agentic AI
 summary: Explore how agentic AI is revolutionizing project management in Agile development,
   enhancing decision-making, risk management, and team collaboration.
 tags:
@@ -27,13 +25,16 @@ tags:
   - agentic
 title: "Agentic AI: Transforming Agile Development with Autonomous Intelligence"
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 There's something thrilling about autonomy. The idea of a machine, not simply a tool to be used, but a participant in the decision-making process of a complex system like project management, carries with it a mix of awe and uncertainty. It's not about replacing human roles but rather augmenting them—allowing artificial intelligence to take on an agentic role where it acts with a degree of independence and adaptability. Welcome to the world of [agentic AI](https://venturebeat.com/ai/agentic-ai-a-deep-dive-into-the-future-of-automation/).
 
 <!--more-->
 
-![Agentic AI assisting in project management tasks](agentic_ai_project_management.webp)
+{{< responsive-image src="agentic_ai_project_management.webp" alt="Agentic AI assisting in project management tasks" >}}
 
 The notion of agentic AI is simple but profound. It's the concept of [AI as an agent](https://www.ibm.com/think/topics/ai-agents)—an entity capable of making decisions and taking actions to achieve goals, often **adapting its behavior in real-time** based on dynamic environments. Unlike traditional AI, which operates based on predefined parameters, agentic AI operates within a framework where it has the **autonomy to assess, evaluate, and act**, continuously learning from feedback.
 

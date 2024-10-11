@@ -28,13 +28,16 @@ tags:
   - media literacy
 title: Enhance Your Digital Literacy with a Media Analysis GPT
 weight: 50
+author: "Scot Campbell"
+language: "en"
+type: "blog post"
 ---
 
 In today's digital age, the ability to critically analyze media content is more crucial than ever. With the overwhelming influx of information—and misinformation—it's essential to have tools that can help you assess the credibility, bias, and intent behind what you read online. One powerful way to enhance your [media literacy](https://medialiteracynow.org/challenge/what-is-media-literacy/) is by creating a custom GPT within [ChatGPT](https://chatgpt.com/) tailored specifically for media analysis. This innovative approach combines the power of artificial intelligence with the nuanced understanding required for effective media criticism.
 
 <!--more-->
 
-![Robotic AI Reading a Newspaper](mediaanalysis.png)
+{{< responsive-image src="mediaanalysis.png" alt="Robotic AI Reading a Newspaper" >}}
 
 This comprehensive guide will walk you through the process of setting up a custom GPT that can evaluate articles from the web, helping you identify [cognitive biases](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963), political agendas, and assess the credibility of sources. Whether you're a researcher, a journalist, or simply someone who values media literacy, this guide will equip you with the tools to make more informed decisions in the digital landscape.
 
